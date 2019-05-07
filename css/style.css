@@ -57,8 +57,9 @@ body{
 }
 
 .btn-action{
-	padding: 10;
+	padding: 10px;
 	width: 15%;
+	margin-right: 20px;
 }
 
 #learn{
@@ -66,7 +67,7 @@ body{
 }
 
 #learn h1{
-	padding: 50px;
+	padding: 45px;
 	text-align: center;
 	font-weight: 600;
 	font-size: 50px;
@@ -88,7 +89,7 @@ body{
 }
 
 #learn h6{
-	font-size: 14px;
+	font-size: 12px;
 	color: grey;
 }
 
@@ -103,7 +104,7 @@ body{
 #numbers h2{
 	color: orangered;
 	font-weight: 700;
-	font-size: 70px;
+	font-size: 80px;
 	text-align: center;
 }
 
