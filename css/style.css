@@ -1,0 +1,241 @@
+@import url('https://fonts.googleapis.com/css?family=Cabin:400,500,600,700');
+@import url('https://fonts.googleapis.com/css?family=Quicksand:300,400,500,700');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i');
+
+body{
+	font-family: open sans;
+	font-size: 15px;
+}
+
+
+
+.header-area i{
+	color: #fff;
+	margin: 20px;
+}
+
+
+#event{
+	padding: 150px;
+	background-image: url(../img/bg-hero.jpg);
+	color: #fff;
+	text-align: center;
+}
+
+#event img{
+	padding-bottom: 50px;
+	
+}
+
+#event p{
+	padding-bottom: 30px;
+
+}
+
+#event h4{
+	font-size: 12px;
+	padding-bottom: 50px;
+	margin: 20px;
+}
+
+#event i{
+	color: orangered;
+	margin: 10px;
+}
+
+.btn{
+	background: #ff4514;
+	border-radius: 32px; 
+	color: white;
+	font-size: 12px;
+	padding:20px;
+}
+
+.btn-light{
+	border-color: #ff4514;
+	background: transparent;
+}
+
+.btn-action{
+	padding: 10;
+	width: 15%;
+}
+
+#learn{
+	padding:80px;
+}
+
+#learn h1{
+	padding: 50px;
+	text-align: center;
+	font-weight: 600;
+	font-size: 50px;
+}
+
+#learn h2{
+	font-size: 25px;
+	font-weight: 600;
+}
+
+
+#learn img{
+	padding-bottom: 25px
+}
+
+#learn p{
+	color: grey;
+	font-size: 12px;
+}
+
+#learn h6{
+	font-size: 14px;
+	color: grey;
+}
+
+
+#numbers{
+	text-align: center;
+	background-image: url( ../img/bg-counter.jpg);
+	padding: 100px;
+	color: #fff;
+}
+
+#numbers h2{
+	color: orangered;
+	font-weight: 700;
+	font-size: 70px;
+	text-align: center;
+}
+
+#numbers p{
+	font-weight: 700;
+}
+
+
+#speak{
+	padding: 150px;
+	text-align: center;
+}
+
+
+#speak h1{
+	text-align: center;
+	font-weight: 600;
+	font-size: 50px;
+}
+
+#speak h2{
+	color: grey;
+	font-size: 15px;
+	padding-bottom: 80px;
+}
+
+#speak h3{
+	font-size: 25px;
+	font-weight: 600;
+	padding-top: 50px;
+}
+
+#speak img{
+	border-radius: 50px;
+}
+
+#speak p{
+	font-size: 12px;
+	color: orangered;
+}
+
+#speak h6{
+	font-size: 14px;
+	color:grey;
+}
+
+#speak i{
+	margin: 20px;
+	color:grey;
+}
+
+
+#horario{
+	padding: 150px;
+	text-align: center;
+	background-image: url(../img/bg-schedule.jpg);
+}
+
+
+#horario h1{
+	text-align: center;
+	font-weight: 600;
+	font-size: 50px;
+}
+
+#horario h2{
+	font-size: 14px;
+	color:grey;
+	padding-bottom: 60px;
+}
+
+
+#horario h3{
+	font-size: 40px;
+	font-weight: 700;
+	text-align: right;
+}
+
+#horario p{
+	font-size: 12px;
+	text-align: right;
+	padding-bottom: 55px;
+}
+
+
+#horario h6{
+	font-size: 25px;
+	
+}
+
+.box{
+	background-color:#FFFFFF;
+	border: #F0F0F0 solid 1px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+
+#register{
+	text-align: center;
+	background-image: url( ../img/bg-counter.jpg);
+	padding: 100px;
+	color: #fff;
+}
+
+#register h1{
+	color: #fff;
+	font-weight: 700;
+	font-size: 40px;
+	text-align: center;
+}
+
+
+footer{
+	background-color:#161616;
+	padding: 60px;
+	color:grey;
+	text-align: center;
+}
+
+
+footer img{
+	padding-bottom: 25px;
+}
+
+
+
+
+
+
+
+
+
+
+
